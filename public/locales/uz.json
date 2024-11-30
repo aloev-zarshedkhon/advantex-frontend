@@ -1,0 +1,147 @@
+{
+  "industry": {
+    "title": "INDUSTRIYALAR",
+    "sub": "Quyi industriyalar"
+  },
+  "header": {
+    "main": {
+      "searchplaceholder": "Mahsulot qidirish..."
+    }
+  },
+  "footer": {
+    "addressText": "Manzil",
+    "addressContent": "Advantex-Industrial Belting Distributor, Sag'bon 186, Toshkent 100175, O'zbekiston",
+    "phone": "Telefon",
+    "phoneContent": "(+99890) 168-76-28",
+    "email": "Email",
+    "emailContent": "ravshan.vafoev@advantex.uz",
+    "info": {
+      "title": "Ma'lumotlar",
+      "about": "Biz haqimizda",
+      "contact": "Kontaktlar"
+    },
+    "cabinet": {
+      "title": "Mening kabinetim",
+      "shop": "Do'kon"
+    },
+    "news": {
+      "title": "Hoziroq Yangiliklarimizga Qo'shiling",
+      "desc": "Eng so'nggi mahsulotlarimiz va maxsus takliflarimiz haqida elektron pochta xabarlarini oling.",
+      "email": "Elektron pochtangizni kiriting",
+      "join": "Obuna bo'ling"
+    }
+  },
+  "about": {
+    "html": "<i>Biz sanoat sohasida kamar taqsimotini soddalashtiramiz</i> \n <p>“Advantex” MChJ O‘zbekistondagi Habasit” va Optibelt, kamar ishlab chiqarish bo‘yicha yetakchi kompaniyalarning O'zbekistandagi hamkori.</p>\n<p><strong>Habasit International AG</strong> (Shveytsariya) kamar ishlab chiqarish sohasida dunyoda birinchi o'rinda turadi. 75 yildan ortiq faoliyati davomida Habasit yuqori darajadagi mahsulotlar va xizmatlarning keng spektrini, chuqur bilim bazasi va tajribasini ishlab chiqdi. Bugungi kunda O‘zbekistonning to‘qimachilik, oziq-ovqat va ichimliklar, qadoqlash va konservalash, qadoqlash va aeroport sanoatidagi 100 dan ortiq korxonalari Habasitning turli mahsulotlaridan foydalanmoqda.</p><p><strong>Optibelt GmbH</strong>(Germaniya) yuqori unumdorlikdagi tishli kamarlar va v-kamarlarning yetakchi ishlab chiqaruvchilardan biridir. Optibelt mahsulotlari O‘zbekistonda mustahkamlik va sifat talab qilinadigan joylarda qo‘llaniladi: mashinasozlikda, avtomobilsozlikda, qishloq xo‘jaligi mashinasozligi va maishiy texnika sanoatida.</p><p>Biz to'qimachilik, oziq-ovqat va ichimliklar va boshqa sohalarda katta tajriba va nou-xauga ega bo'lgan bilimli, malakali va tajribali mutaxassislar jamoasimiz.</p><p>Biz nafaqat mijozlarimizning funktsional ehtiyojlarini qondirishga, balki eng yuqori sifat, individual yondashuv va ishonchlilikni ta'minlashga intilamiz.</p>",
+    "title": "Biz haqimizda"
+  },
+  "share": {
+    "title": "Ulashish"
+  },
+  "404": {
+    "title": "404 – Sahifa topilmadi",
+    "desc": "Siz qidirayotgan sahifa mavjud emas. Qaytadan qidirib ko‘ring yoki “Orqaga qaytish” tugmasini bosing",
+    "btn": "Orqaga qaytish"
+  },
+  "contact": {
+    "title": "Biz bilan bog'laning",
+    "address": {
+      "label": "Manzil:",
+      "text": "O'zbekiston Respublikasi, 100175, Toshkent shahri, Almazar tumani, Sag'bon ko'chasi, 186-uy"
+    },
+    "phone": "Tel:",
+    "email": "Email:",
+    "comment": {
+      "title": "Izoh qoldiring",
+      "name": "Ism",
+      "email": "Email",
+      "message": "Xabar",
+      "sendbtn": "Yuborish"
+    }
+  },
+  "register": {
+    "company": "Kompaniya nomi",
+    "companyRequired": "Kompaniya nomi talab qilinadi",
+    "phone": "Telefon raqami",
+    "phoneRequired": "Telefon raqami talab qilinadi",
+    "name": "Ism",
+    "nameRequired": "Ism talab qilinadi",
+    "lastName": "Familiya",
+    "lastNameRequired": "Familiya talab qilinadi",
+    "email": "Elektron pochta manzili",
+    "emailRequired": "Elektron pochta talab qilinadi",
+    "password": "Parol",
+    "passwordRequired": "Parol talab qilinadi",
+    "confirmPassword": "Parolni tasdiqlang",
+    "confirmPasswordRequired": "Parolni tasdiqlash talab qilinadi",
+    "title": "Ro'yxatdan o'tish"
+  },
+  "btn": {
+    "submit": "Yuborish",
+    "register": "Ro'yxatdan o'tish",
+    "login": "Profilga kirish",
+    "check": "Tekshirish",
+    "more": "Ko'proq ko'rish"
+  },
+  "home": {
+    "belt": "Mahsulot turlari",
+    "popular": "Ommabop mahsulotlar",
+    "industry": "Sanoatlar",
+    "blog": "Blog"
+  },
+  "checkout": {
+    "title": "Savatcha",
+    "product": "Mahsulot",
+    "count": "Soni",
+    "total": "Jami",
+    "coupon": {
+      "label": "Chegirmaga ega bolish uchun kupon kodini kiriting (ixtiyoriy)",
+      "true": "Kupon to'g'ri",
+      "false": "Kupon noto'g'ri"
+    },
+    "check": "Tekshirish",
+    "price": "Narx",
+    "discount": "Chegirma",
+    "place_order": "Buyurtma berish",
+    "nothing_found": "Hech nima topilmadi",
+    "empty": "Sizning savatingiz bo'sh"
+  },
+  "order": {
+    "products": "Mahsulotlar",
+    "product": "Mahsulot",
+    "quantity": "Miqdor",
+    "total": "Jami",
+    "number": "Raqam",
+    "date": "Sana",
+    "status": "Holat",
+    "first_name": "Ism",
+    "last_name": "Familiya",
+    "email": "Elektron pochta",
+    "phone": "Telefon",
+    "company": "Kompaniya"
+  },
+  "shop": {
+    "brands": "Brendlar",
+    "types": "Turlar",
+    "search_results": "Qidiruv natijalari",
+    "clear": "Tozalash",
+    "filter": "Filterlash",
+    "add_to_cart": "Savatga qo'shish",
+    "go_to_checkout": "To'lovga o'tish"
+  },
+  "profile": {
+    "favorite": "sevimli mahsulotlar",
+    "nothing": "sevimlilar ro'yxati bo'sh",
+    "old_password": "eski parol",
+    "old_password_required": "eski parol talab qilinadi",
+    "new_password": "yangi parol",
+    "new_password_required": "yangi parol talab qilinadi",
+    "reset_password": "Parolni qayta tiklash"
+  },
+  "login": {
+    "title": "Login",
+    "forget_pass": "parolni unutdingizmi?",
+    "success_posted_forget_pass": "Yaxshi $1 email pochtangizga qarang biz sizga parol tiklash uchun havola yubordik",
+    "reset": "qayta tiklash"
+  }
+}

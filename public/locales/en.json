@@ -1,0 +1,147 @@
+{
+  "industry": {
+    "title": "INDUSTRIES",
+    "sub": "Sub-industries"
+  },
+  "header": {
+    "main": {
+      "searchplaceholder": "Search products..."
+    }
+  },
+  "footer": {
+    "addressText": "Address",
+    "addressContent": "Advantex-Industrial Belting Distributor, Sagbon 186, Tashkent 100175, Uzbekistan",
+    "phone": "Phone",
+    "phoneContent": "(+99890) 168-76-28",
+    "email": "Email",
+    "emailContent": "ravshan.vafoev@advantex.uz",
+    "info": {
+      "title": "Information",
+      "about": "About Us",
+      "contact": "Contacts"
+    },
+    "cabinet": {
+      "title": "My Account",
+      "shop": "Shop"
+    },
+    "news": {
+      "title": "Subscribe to Our News Now",
+      "desc": "Get email updates about our latest products and special offers.",
+      "email": "Enter your email address",
+      "join": "Join"
+    }
+  },
+  "about": {
+    "title": "About us",
+    "html": "<i>We streamline the conveyor belt distribution system in the industrial sector.</i> \n <p>\"Advantex\" LLC is the exclusive partner of Habasit and Optibelt, leading conveyor belt manufacturing companies in Uzbekistan.</p>\n<p><strong>Habasit International AG</strong> (Switzerland) ranks first in the world in conveyor belt production. With over 75 years of activity, Habasit has developed a wide range of high-quality products and services, boasting deep expertise and experience. Today, more than 100 textile, food and beverage, packaging, and airport industries in Uzbekistan benefit from various Habasit products.</p><p><strong>Optibelt GmbH</strong> (Germany) is one of the leading manufacturers of high-performance toothed and v-belts. Optibelt products are widely used in Uzbekistan in reliable and demanding sectors such as mechanical engineering, automotive, agriculture, and household appliance manufacturing.</p><p>Our team consists of experienced and skilled specialists with extensive knowledge and expertise in the textile, food and beverage, and other industries.</p><p>We aim not only to meet our customers' functional needs but also to provide the highest quality, individual approach, and reliability.</p>"
+  },
+  "share": {
+    "title": "Share"
+  },
+  "404": {
+    "title": "404 – Page Not Found",
+    "desc": "The page you are looking for does not exist. Try searching again or click the  “Go Back”  button",
+    "btn": "Go Back"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "address": {
+      "label": "Address:",
+      "text": "Republic of Uzbekistan, 100175, Tashkent city, Almazar district, Sagbon Street, house 186"
+    },
+    "phone": "Tel:",
+    "email": "Email:",
+    "comment": {
+      "title": "Leave a comment",
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "sendbtn": "Submit"
+    }
+  },
+  "register": {
+    "company": "Company name",
+    "companyRequired": "Company name is required",
+    "phone": "Phone number",
+    "phoneRequired": "Phone number is required",
+    "name": "Name",
+    "nameRequired": "Name is required",
+    "lastName": "Last name",
+    "lastNameRequired": "Last name is required",
+    "email": "Email address",
+    "emailRequired": "Email is required",
+    "password": "Password",
+    "passwordRequired": "Password is required",
+    "confirmPassword": "Confirm Password",
+    "confirmPasswordRequired": "Confirm password is required",
+    "title": "register"
+  },
+  "btn": {
+    "submit": "Submit",
+    "register": "Register",
+    "login": "Login",
+    "check": "Check",
+    "more": "Show more"
+  },
+  "home": {
+    "belt": "Product types",
+    "popular": "Popular products",
+    "industry": "Industries",
+    "blog": "Blog"
+  },
+  "checkout": {
+    "title": "Checkout",
+    "product": "Product",
+    "count": "Count",
+    "total": "Total",
+    "coupon": {
+      "label": "Enter coupon code for discount (optional)",
+      "true": "Coupon is correct",
+      "false": "Coupon is incorrect"
+    },
+    "check": "Check",
+    "price": "Price",
+    "discount": "Discount",
+    "place_order": "Place Order",
+    "nothing_found": "Nothing found",
+    "empty": "Your cart is empty"
+  },
+  "order": {
+    "products": "Products",
+    "product": "Product",
+    "quantity": "Quantity",
+    "number": "Number",
+    "date": "Date",
+    "total": "Total",
+    "status": "Status",
+    "first_name": "First Name",
+    "last_name": "Last Name",
+    "email": "Email",
+    "phone": "Phone",
+    "company": "Company"
+  },
+  "shop": {
+    "brands": "Brands",
+    "types": "Types",
+    "search_results": "Search results",
+    "clear": "Clear",
+    "filter": "Filter",
+    "add_to_cart": "Add to cart",
+    "go_to_checkout": "Go to checkout"
+  },
+  "profile": {
+    "favorite": "favorite products",
+    "nothing": "favorite list is empty",
+    "old_password": "old password",
+    "old_password_required": "old password required",
+    "new_password": "new password",
+    "new_password_required": "new password required",
+    "reset_password": "reset password"
+  },
+  "login": {
+    "title": "Login",
+    "forget_pass": "forgot password?",
+    "success_posted_forget_pass": "Great $1! Check your email, we've sent you a password reset link",
+    "reset": "reset"
+  }
+}
